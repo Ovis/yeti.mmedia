@@ -38,15 +38,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AudioWriters.cs" />
-    <Compile Include="EditWaveWriter.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="InFormatEdit.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="NumericTextBox.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="EditWaveWriter.cs />
+    <Compile Include="InFormatEdit.cs />
+    <Compile Include="NumericTextBox.cs />
     <Compile Include="WaveNative.cs" />
     <Compile Include="WaveStream.cs" />
     <Compile Include="WaveWriter.cs" />
